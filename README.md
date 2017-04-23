@@ -10,4 +10,7 @@ Running a Hello World in Python with a Flask server.
 # Setup for HW4_CI_CD
 `pip install Flask`
 `python helloworld.py`
+`python run.py`
 ** Running on http://localhost:5000/ **
+# Testing
+`python test.py`
