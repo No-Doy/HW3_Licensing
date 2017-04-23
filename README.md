@@ -7,9 +7,10 @@ I created a repository that uses GNU GPLv3.
 I want anyone who uses this code to know that they must give credit to any derivative of this code that they create. This license also comes with patent rights from contributors to users.
 # HW4_CI_CD
 Running a Hello World in Python with a Flask server.
-# Setup for HW4_CI_CD
+# Setup 
 `pip install Flask`
 `python helloworld.py`
+# Run
 `python run.py`
 ** Running on http://localhost:5000/ **
 # Testing
