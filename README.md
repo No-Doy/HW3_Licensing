@@ -9,7 +9,6 @@ I want anyone who uses this code to know that they must give credit to any deriv
 Running a Hello World in Python with a Flask server.
 # Setup 
 `pip install Flask`
-`python helloworld.py`
 # Run
 `python run.py`
 ** Running on http://localhost:5000/ **
