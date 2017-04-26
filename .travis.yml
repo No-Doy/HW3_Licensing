@@ -5,6 +5,5 @@ python:
 install: 
   - pip install unittest2
   - pip install Flask
-  - npm install TestCase
 # command to run tests
 script: python test.py
